@@ -1,0 +1,3 @@
+Hermis 6 1 2
+Afrodite 6 6 2
+Hera 2 6 6
